@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Week02 Day01</title>
+        <link rel="stylesheet" href="styles02.css">
+    </head>
+
+    <body>
+
+        <section>
+            <h1>Toc</h1>
+
+            <ul>
+                <li><a href="Week03-day02.html">Week Three Day Two</a></li>
+            </ul>
+
+        </section>
+        <section>
+            <h1>Week02 Day01</h1>
+        
+             <p>This is <strong>my</strong> paragraph. I'm using a <b>p</b> tag</p>
+           
+             <p>Hemingway wrote <cite>The Sun Also Rises</cite>.</p>
+ 
+        </section>
+
+        <section>
+            <h1>Week03 Day01</h1>
+        
+             <p>This is <strong>my</strong> Week Three paragraph. I'm using a <b>p</b> tag</p>
+           
+             <p>Falkner wrote <cite>Tender is the Night</cite> and <cite>The Great Gatsby</cite>.</p>
+ 
+        </section>
+
+        </body>
+    </html>
