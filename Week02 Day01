@@ -5,9 +5,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Week02 Day01</title>
         <link rel="stylesheet" href="styles02.css">
-        <link rel="stylesheet" href="stylesresume.css">
-     
-        
     </head>
 
     <body>
@@ -16,7 +13,6 @@
             <h1>Toc</h1>
 
             <ul>
-                <li>  <a href="Resume.html">Resume</a></li>
                 <li><a href="Week03-day02.html">Week Three Day Two</a></li>
             </ul>
 
